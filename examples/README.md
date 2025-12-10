@@ -8,7 +8,6 @@ This directory contains concrete code examples demonstrating performance improve
 - `algorithm_optimization.py` - Algorithm and data structure improvements
 - `async_optimization.js` - Asynchronous programming optimizations
 - `memory_optimization.py` - Memory-efficient coding patterns
-- `benchmarks.md` - Performance benchmark results
 
 ## How to Use
 
